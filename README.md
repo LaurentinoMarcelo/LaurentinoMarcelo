@@ -1,4 +1,7 @@
 ### Olá! Eu sou Marcelo Laurentino
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentinomarcelo&theme=radical&show_icons=true)
+
   
   <div style="display: inline_block"><br>
     
