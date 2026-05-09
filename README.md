@@ -16,8 +16,6 @@ Atualmente atuo com:
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-
 <p align="left">
   <img alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -33,8 +31,6 @@ Atualmente atuo com:
   <img alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
   <img alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </p>
-
-</div>
 
 ---
 
