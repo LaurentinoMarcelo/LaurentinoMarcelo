@@ -1,31 +1,106 @@
-### Olá! Eu sou Marcelo Laurentino
+# 👋 Olá! Eu sou Marcelo Laurentino
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentinomarcelo&theme=radical&show_icons=true)
+🎯 Analista Sênior de PCM | Desenvolvimento de Sistemas | Power BI | TPM | Confiabilidade | Automação Industrial
 
-  
-  <div style="display: inline_block"><br>
-    
-  <img align="center" alt="Marcelo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Marcelo-Jv" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Marcelo-Jv" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Marcelo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcelo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcelo-B4" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Marcelo-Android" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Marcelo-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Marcelo-NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  
-  
-   
+Sou apaixonado por tecnologia aplicada à manutenção industrial, análise de dados e desenvolvimento de soluções que aumentam a confiabilidade, disponibilidade e performance operacional.
+
+Atualmente atuo com:
+- 📊 Power BI e análise de indicadores
+- 🏭 PCM e Gestão da Manutenção
+- ⚙️ TPM, RCFA e melhoria contínua
+- 💻 Desenvolvimento Web e Mobile
+- 🔥 Firebase, React, React Native e Node.js
+- 🤖 Soluções inteligentes para manutenção industrial
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Marcelo-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Marcelo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
+<img align="center" alt="Marcelo-Ts" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img align="center" alt="Marcelo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="Marcelo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="Marcelo-Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
+<img align="center" alt="Marcelo-Android" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+
+<img align="center" alt="Marcelo-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img align="center" alt="Marcelo-NodeJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<img align="center" alt="Marcelo-Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+
+<img align="center" alt="Marcelo-PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img align="center" alt="Marcelo-MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+
+<img align="center" alt="Marcelo-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
 </div>
-  
-  ##
-  
- <div> 
-    
-  <a href = "mailto:marcelolaurentino56@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-laurentino-8a54ba114/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/LaurentinoMarcelo/LaurentinoMarcelo/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
+---
+
+## 📈 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentinomarcelo&theme=radical&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentinomarcelo&layout=compact&theme=radical)
+
+---
+
+## 🏭 Projetos em Destaque
+
+### 🔹 PCM Flow
+Sistema inteligente para análise de paradas, planejamento de manutenção, geração de checklists com IA e gestão de manutenção industrial.
+
+### 🔹 Maintelligence
+Sistema de monitoramento inteligente de relatos de paradas via WhatsApp utilizando IA para estruturação de ocorrências industriais.
+
+### 🔹 Stock Manager
+Aplicação desenvolvida para controle avançado de estoque e gestão de materiais industriais.
+
+### 🔹 Meu Bolso
+Aplicativo de gestão financeira pessoal desenvolvido com React Native e Firebase.
+
+---
+
+## 📚 Formação e Especializações
+
+- 🎓 MBA em Gestão da Produção
+- 🎓 MBA em Big Data
+- 🎓 Formação em Data Science
+- 🎓 Engenharia de Produção (em andamento)
+
+---
+
+## 📫 Contato
+
+<div> 
+
+<a href="mailto:marcelolaurentino56@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
+<a href="https://www.linkedin.com/in/marcelo-laurentino-8a54ba114/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/LaurentinoMarcelo/LaurentinoMarcelo/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Sempre buscando unir tecnologia + manutenção + dados para transformar processos industriais.
